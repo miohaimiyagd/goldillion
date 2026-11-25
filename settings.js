@@ -2,7 +2,7 @@
 window.SETTINGS = {
   // Day 1 is this date (YYYY-MM-DD, in each player's local time).
   // Before it, players see a "coming soon" screen.
-  releaseDate: "2026-11-25",
+  releaseDate: "2026-11-24",
 
   secondsPerQuestion: 25,
 
