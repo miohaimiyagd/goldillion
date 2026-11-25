@@ -15,7 +15,7 @@ window.DAYS = {
   // ====== DAY 1 ======
   1: [
     {
-      q: "Name a fruit",
+      q: "Name ",
       answers: {
         "Apple": 4,
         "Banana": 6,
