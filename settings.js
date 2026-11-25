@@ -2,7 +2,7 @@
 window.SETTINGS = {
   // Day 1 is this date (YYYY-MM-DD, in each player's local time).
   // Before it, players see a "coming soon" screen.
-  releaseDate: "2026-12-01",
+  releaseDate: "2026-11-25",
 
   secondsPerQuestion: 25,
 
@@ -12,10 +12,13 @@ window.SETTINGS = {
   // Label for a single answer, by its points. The highest matching "min" wins.
   rarity: [
     { min: 0,  label: "Not on the list" },
-    { min: 1,  label: "Common" },
-    { min: 20, label: "Uncommon" },
-    { min: 50, label: "Rare" },
-    { min: 85, label: "One in a goldillion" }
+    { min: 1,  label: "Plankton" },
+    { min: 10, label: "Schooler" },
+    { min: 25, label: "Cool" },
+    { min: 40, label: "Good!" },
+    { min: 60, label: "Rare" },
+    { min: 85, label: "Deep Cut" },
+    { min: 100, label: "One in a goldillion!!" }
   ],
 
   // Rank for the day's total (7 questions x 100 = 700 max). Highest matching "min" wins.
